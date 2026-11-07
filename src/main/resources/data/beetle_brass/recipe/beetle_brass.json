@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:copper_ingot",
+    "minecraft:netherite_ingot"
+  ],
+  "result": {
+    "id": "beetle_brass:beetle_brass",
+    "count": 2
+  }
+}

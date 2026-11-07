@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "beetle_brass",
+  "version": "${version}",
+  "name": "Beetle Brass Arsenal",
+  "description": "Adds beetle brass, a copper and netherite alloy, and two weapons crafted from it.",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.beetlebrass.BeetleBrassMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.5",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

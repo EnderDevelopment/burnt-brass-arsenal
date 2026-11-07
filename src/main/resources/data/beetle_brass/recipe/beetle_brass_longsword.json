@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B",
+    "B",
+    "S"
+  ],
+  "key": {
+    "B": "beetle_brass:beetle_brass",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "beetle_brass:beetle_brass_longsword",
+    "count": 1
+  }
+}
